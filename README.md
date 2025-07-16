@@ -8,7 +8,7 @@ A simple web app to track income and expenses. Built using HTML, CSS, and JavaSc
 - Simple and clean UI
 
 ## Demo
-[Live Demo](https://yourusername.github.io/expense-tracker/)
+[Live Demo](https://Abhishek2463.github.io/expense-tracker/)
 
 ## How to Run
 Just open `index.html` in your browser.
